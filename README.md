@@ -1,0 +1,2 @@
+# THAMIKA
+my first projet
